@@ -1,5 +1,3 @@
-/* Основные стили для сайта */
-
 /* Общие стили */
 * {
     margin: 0;
@@ -177,9 +175,7 @@ ol li, ul li {
 .toy-table {
     width: 100%;
     border-collapse: collapse;
-    margin: 20px 0;
-    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect fill="%23fff0f5" width="100" height="100"/></svg>');
-}
+    margin: 20px 0;}
 
 .toy-table th {
     background-color: #ff6b9d;
